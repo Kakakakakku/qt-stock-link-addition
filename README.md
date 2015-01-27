@@ -1,0 +1,1 @@
+# qt-stock-link-addition
